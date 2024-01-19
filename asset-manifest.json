@@ -1,10 +1,16 @@
 {
   "files": {
-    "main.js": "/MikesJournal/static/js/main.0f301720.js",
+    "main.css": "/MikesJournal/static/css/main.f855e6bc.css",
+    "main.js": "/MikesJournal/static/js/main.6dd0f2e6.js",
+    "static/js/787.f1cd5909.chunk.js": "/MikesJournal/static/js/787.f1cd5909.chunk.js",
+    "static/media/logo.svg": "/MikesJournal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MikesJournal/index.html",
-    "main.0f301720.js.map": "/MikesJournal/static/js/main.0f301720.js.map"
+    "main.f855e6bc.css.map": "/MikesJournal/static/css/main.f855e6bc.css.map",
+    "main.6dd0f2e6.js.map": "/MikesJournal/static/js/main.6dd0f2e6.js.map",
+    "787.f1cd5909.chunk.js.map": "/MikesJournal/static/js/787.f1cd5909.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.0f301720.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.6dd0f2e6.js"
   ]
 }
